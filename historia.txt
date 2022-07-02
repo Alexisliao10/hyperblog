@@ -10,8 +10,4 @@ Experimento 1
 
 Experimento 2
 
-<<<<<<< HEAD
 Esta es más avanzado
-=======
-Esta es más avanzado
->>>>>>> b5ec5f1 (exp 2)
